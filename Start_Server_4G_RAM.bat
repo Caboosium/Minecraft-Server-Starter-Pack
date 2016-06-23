@@ -1,0 +1,1 @@
+java -Xms100M -Xmx4G -jar Core_Server.jar
